@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "001",
+        "image" : "https://i.ibb.co/jRVkpwL/tour-guide-one.png",
+        "name":"Leo Mateo",
+        "classes": "30"
+    },
+    {
+        "_id": "002",
+        "image" : "https://i.ibb.co/YRFzx7f/tour-guide-three.jpg",
+        "name":"Robert Clue",
+        "classes": "20"
+    },
+    {
+        "_id": "003",
+        "image" : "https://i.ibb.co/VS2hKpx/tour-guide-two.png",
+        "name":"Roberto Alex",
+        "classes": "24"
+    },
+    {
+        "_id": "004",
+        "image" : "https://i.ibb.co/KDYbxLv/Untitled-design-24.png",
+        "name":"Steven Miller",
+        "classes": "14"
+    },
+    {
+        "_id": "005",
+        "image" : "https://i.ibb.co/fqncF9n/Untitled-design-23.png",
+        "name":"Jack Archer",
+        "classes": "17"
+    },
+    {
+        "_id": "006",
+        "image" : "https://i.ibb.co/c8RCRtC/P3-OLGJ1copy1.png",
+        "name":"Kagiso Peterson",
+        "classes": "21"
+    }
+]
